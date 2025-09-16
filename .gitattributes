@@ -4,3 +4,4 @@
 >>>>>>> 18ea59b27136eaed7d7fcd71447f9ce2a1c2aa05
 best_model.pkl filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
