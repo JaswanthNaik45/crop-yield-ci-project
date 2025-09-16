@@ -5,3 +5,7 @@
 ✅ Crop yield prediction using ML models (Random Forest, XGBoost, etc.)
 📦 Includes CI pipeline with Travis CI
 📊 Dataset preprocessing, model training, and evaluation
+<<<<<<< HEAD
+=======
+# crop-yield-ci-project
+>>>>>>> 5cc5007f5b207b79a64b468d7a32ecdad369e601
